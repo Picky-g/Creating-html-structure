@@ -1,0 +1,36 @@
+
+.hero-des{
+	width:500px;
+	border-size:2px;
+	border-style:solid;
+	border-color:red;
+	text-align:center;
+}
+
+p{
+	border:3px solid blue;
+	width:50%;
+	margin:100px 50px;
+	padding:50px 20px;
+}
+
+h1{
+	border:2px solid black;
+	width:40%;
+	margin-left:150px;
+	margin-bottom:100px;
+	padding-left: 100px;
+	padding-right: 150px;
+}
+
+.box{
+	width: 50%;
+	border:2px solid blue;
+}
+
+.card-container{
+	width:40%;
+	border:2px solid red;
+	padding:50px;
+	margin-top:20px;
+}
